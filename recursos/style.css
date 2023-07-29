@@ -1,0 +1,34 @@
+*{
+    background-color: rgb(255, 255, 255);
+}
+#formulario{
+    border: 2px solid #243c4c;
+    border-radius: 10px;
+    
+}
+#formulario2{
+    border: 2px solid #243c4c;
+    border-radius: 10px;
+    
+    
+}
+table{
+    .table{
+        border: 2px solid #243c4c;
+        border-radius: 10px;
+        
+    }
+   
+}
+H1{
+    background-color: #243c4c;
+    color: aliceblue;
+    padding: 2%;
+    margin: auto;
+    width: 80%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.img{
+    background: transparent;
+}
